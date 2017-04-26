@@ -12,7 +12,7 @@ class Dbi {
 
         private $databaseURL = "localhost";
 	private $databaseUName = "root";
-        private $databasePWord = "password";
+        private $databasePWord = "csaadmin@17";
 	private $databaseName = "pagination";
         private $conn;
 

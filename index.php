@@ -7,6 +7,13 @@ include_once './Dbi.php';
     <head>
         <meta charset="UTF-8">
         <title>Pagination Demo by learn.iotwebplanet.com </title>
+        <style>
+            table{
+                background-color: red;
+                color: white;
+            }
+            
+        </style>
     </head>
     <body>
         <?php
